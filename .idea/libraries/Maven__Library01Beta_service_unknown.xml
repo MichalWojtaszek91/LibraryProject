@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: Library01Beta:service:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/Library01Beta/service/unknown/service-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/Library01Beta/service/unknown/service-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/Library01Beta/service/unknown/service-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
